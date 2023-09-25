@@ -1,4 +1,4 @@
-module github.com/XiaoMi/soar
+module github.com/jason-bian/soar
 
 go 1.15
 
